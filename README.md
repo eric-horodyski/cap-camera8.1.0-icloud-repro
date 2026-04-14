@@ -1,5 +1,7 @@
 # Capacitor Camera iCloud Reproduction
 
+> This reproduction was generated with the assistance of AI ([Claude Code](https://docs.anthropic.com/en/docs/claude-code)).
+
 Minimal reproduction for [ionic-team/capacitor-plugins#1807](https://github.com/ionic-team/capacitor-plugins/issues/1807).
 
 ## Bug
